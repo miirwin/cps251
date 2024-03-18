@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NavigationProject</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="navigate">Navigate</string>
+    <string name="display_image_1">Display Image 1</string>
+    <string name="display_image_2">Display Image 2</string>
+    <string name="display_image_3">Display Image 3</string>
+    <string name="todo">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="image_1">Image 1</string>
+    <string name="image_2">Image 2</string>
+    <string name="image_3">Image 3</string>
+</resources>
